@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RempleTun-0003.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\MyBlueprintFunctionLibrary.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\MyClass.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\NewActorComponent.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\PlayerTest.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\MyBlueprintFunctionLibrary.gen.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\NewActorComponent.gen.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\PlayerTest.gen.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.init.gen.cpp.obj"
+"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Default.rc2.res"
+/OUT:"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.lib"
+/INCLUDE:IMPLEMENT_MODULE_RempleTun

@@ -1,0 +1,22 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun).
+  Creating makefile for RempleTunEditor (no existing makefile)
+  Parsing headers for RempleTunEditor
+    Running UnrealHeaderTool "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\RempleTun.uproject" "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\RempleTunEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RempleTunEditor in 7.0307965 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\VS2017\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 12 actions with 8 processes...
+    [1/12] NewActorComponent.cpp
+    [2/12] PlayerTest.cpp
+    [3/12] RempleTun.cpp
+    [4/12] MyClass.cpp
+    [5/12] MyBlueprintFunctionLibrary.cpp
+    [6/12] PlayerTest.gen.cpp
+    [7/12] NewActorComponent.gen.cpp
+    [8/12] MyBlueprintFunctionLibrary.gen.cpp
+    [9/12] RempleTun.init.gen.cpp
+    [10/12] UE4Editor-RempleTun-0003.lib
+       Creating library C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.lib and object C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.exp
+LINK : fatal error LNK1105: cannot close file 'C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.exp'
+    [11/12] UE4Editor-RempleTun-0003.dll
+       Creating library C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.suppressed.lib and object C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-0003.suppressed.exp
+C:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command "C:\Epic\UE4\UE_4.22\Engine\Build\BatchFiles\Build.bat RempleTunEditor Win64 Development -Project="C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\RempleTun.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
