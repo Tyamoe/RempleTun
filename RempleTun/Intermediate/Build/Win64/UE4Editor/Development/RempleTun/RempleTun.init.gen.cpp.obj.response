@@ -28,9 +28,11 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun"
-/I "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Source"
-/I "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Source\RempleTun"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun\Private"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun\Public"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -429,18 +431,18 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I C:\VS2017\VC\Tools\MSVC\14.16.27023\INCLUDE
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun\RempleTun.init.gen.cpp"
-/FI"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Definitions.RempleTun.h"
-/Fo"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.init.gen.cpp.obj"
+/I "S:\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "S:\Windows Kits\10\include\10.0.17763.0\shared"
+/I "S:\Windows Kits\10\include\10.0.17763.0\um"
+/I "S:\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun\RempleTun.init.gen.cpp"
+/FI"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Definitions.RempleTun.h"
+/Fo"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.init.gen.cpp.obj"
 /TP
 /GR-
 /W4

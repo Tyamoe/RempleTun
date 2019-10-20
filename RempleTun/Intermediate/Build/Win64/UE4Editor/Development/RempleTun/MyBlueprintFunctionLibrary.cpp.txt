@@ -1,3 +1,0 @@
-C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Definitions.RempleTun.h
-c:\users\chris.thomas\desktop\remple tun repo\rempletun\rempletun\source\rempletun\MyBlueprintFunctionLibrary.h
-C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun\MyBlueprintFunctionLibrary.generated.h

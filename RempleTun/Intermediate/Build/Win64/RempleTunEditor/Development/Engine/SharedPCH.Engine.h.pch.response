@@ -188,17 +188,17 @@
 /I Runtime\AudioMixer\Classes
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
-/I C:\VS2017\VC\Tools\MSVC\14.16.27023\INCLUDE
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/I "C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine"
-/Yc"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.cpp"
-/Fo"C:\Users\chris.thomas\Desktop\Remple Tun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.obj"
+/I "S:\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "S:\Windows Kits\10\include\10.0.17763.0\shared"
+/I "S:\Windows Kits\10\include\10.0.17763.0\um"
+/I "S:\Windows Kits\10\include\10.0.17763.0\winrt"
+/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine"
+/Yc"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.cpp"
+/Fo"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.obj"
 /TP
 /GR-
 /W4

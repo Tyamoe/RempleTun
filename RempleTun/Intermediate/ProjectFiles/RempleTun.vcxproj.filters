@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RempleTun.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E6135057-13ED-4917-93F7-CDE899CE7AEE}</UniqueIdentifier>
+      <UniqueIdentifier>{9ACDCEED-13F9-400D-8D9D-6B44FFB6C01B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RempleTun.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{08B4CE90-4E74-4994-BC82-7521CF20CEF9}</UniqueIdentifier>
+      <UniqueIdentifier>{0354F037-FC70-4059-ABAB-C549E14CC59E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,32 +30,8 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\RempleTun">
-      <UniqueIdentifier>{8CD14D8A-5FB8-40DC-ACE9-30BC22BA58D6}</UniqueIdentifier>
+      <UniqueIdentifier>{CCACBBD6-49DC-4BFD-9638-9B4A6D5FE5DF}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\RempleTun\MyBlueprintFunctionLibrary.cpp">
-      <Filter>Source\RempleTun</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RempleTun\MyBlueprintFunctionLibrary.h">
-      <Filter>Source\RempleTun</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\RempleTun\MyClass.cpp">
-      <Filter>Source\RempleTun</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RempleTun\MyClass.h">
-      <Filter>Source\RempleTun</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\RempleTun\NewActorComponent.cpp">
-      <Filter>Source\RempleTun</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RempleTun\NewActorComponent.h">
-      <Filter>Source\RempleTun</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\RempleTun\PlayerTest.cpp">
-      <Filter>Source\RempleTun</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\RempleTun\PlayerTest.h">
-      <Filter>Source\RempleTun</Filter>
-    </ClInclude>
     <None Include="..\..\Source\RempleTun\RempleTun.Build.cs">
       <Filter>Source\RempleTun</Filter>
     </None>
@@ -64,6 +40,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\RempleTun\RempleTun.h">
       <Filter>Source\RempleTun</Filter>
+    </ClInclude>
+    <Filter Include="Source\RempleTun\Private">
+      <UniqueIdentifier>{2D2404F4-062F-452C-A075-30E385781B24}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RempleTun\Private\PuzzleFunctions.cpp">
+      <Filter>Source\RempleTun\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RempleTun\Public">
+      <UniqueIdentifier>{356798B0-7601-41B2-8BC3-7DA1DD560DE6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RempleTun\Public\PuzzleFunctions.h">
+      <Filter>Source\RempleTun\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
