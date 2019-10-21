@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
-//#include "PuzzleFunctions.generated.h"
-#include "../../../Intermediate/Build/Win64/UE4Editor/Inc/RempleTun/PuzzleFunctions.generated.h"
+#include "PuzzleFunctions.generated.h"
+//#include "../../../Intermediate/Build/Win64/UE4Editor/Inc/RempleTun/PuzzleFunctions.generated.h"
 /**
  * 
  */

@@ -1,9 +1,10 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "../Public/PuzzleFunctions.h"
+//#include "../Public/PuzzleFunctions.h"
+#include "PuzzleFunctions.h"
 
-TMap<int32, int32> GetPuzzleLayout()
+TMap<int32, int32> UPuzzleFunctions::GetPuzzleLayout()
 {
 	/*int knobs = 4;
 	int curr = 0;
