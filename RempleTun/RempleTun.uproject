@@ -1,12 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{5B524EA9-4018-C454-3C1C-12A54BC47180}",
+	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
+	"Modules": [
 		{
-			"Name": "ApexDestruction",
-			"Enabled": true
+			"Name": "RempleTun",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }

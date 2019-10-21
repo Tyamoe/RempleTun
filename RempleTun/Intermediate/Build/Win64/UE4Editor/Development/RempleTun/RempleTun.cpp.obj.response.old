@@ -28,10 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun\Private"
-/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source"
-/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun\Public"
-/I "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun"
+/I "S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Inc\RempleTun"
+/I "S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Source"
+/I "S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Source\RempleTun"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -436,12 +435,12 @@
 /I "S:\Windows Kits\10\include\10.0.17763.0\shared"
 /I "S:\Windows Kits\10\include\10.0.17763.0\um"
 /I "S:\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Source\RempleTun\RempleTun.cpp"
-/FI"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Definitions.RempleTun.h"
-/Fo"S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.cpp.obj"
+/FI"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Source\RempleTun\RempleTun.cpp"
+/FI"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Definitions.RempleTun.h"
+/Fo"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.cpp.obj"
 /TP
 /GR-
 /W4

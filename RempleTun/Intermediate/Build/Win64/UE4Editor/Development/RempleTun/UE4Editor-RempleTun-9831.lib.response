@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RempleTun-9831.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\PuzzleLibrary.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTunGameModeBase.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\PuzzleLibrary.gen.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTun.init.gen.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\RempleTunGameModeBase.gen.cpp.obj"
+"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\Default.rc2.res"
+/OUT:"S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun-9831.lib"
+/INCLUDE:IMPLEMENT_MODULE_RempleTun

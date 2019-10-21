@@ -1,5 +1,16 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun).
+﻿  Creating makefile for RempleTunEditor (ini files are newer than makefile)
   Parsing headers for RempleTunEditor
-    Running UnrealHeaderTool "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\RempleTun.uproject" "S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\RempleTunEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-S:/Projects/12. Unreal Projects/RempleTun Repo/RempleTun/RempleTun/Source/RempleTun/Public/PuzzleFunctions.h(20): error : Expected an include at the top of the header: '#include "PuzzleFunctions.generated.h"'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.MakeFile.Targets(44,5): error MSB3075: The command ""C:\Program Files\Epic Games\UE_4.22\Engine\Build\BatchFiles\Build.bat" RempleTunEditor Win64 Development -Project="S:\Projects\12. Unreal Projects\RempleTun Repo\RempleTun\RempleTun\RempleTun.uproject" -WaitMutex -FromMsBuild" exited with code 5. Please verify that you have sufficient rights to run this command.
+    Running UnrealHeaderTool "S:\Projects\12. Unreal Projects\RempleTun\RempleTun\RempleTun.uproject" "S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\RempleTunEditor\Development\RempleTunEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for RempleTunEditor in 19.3439145 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (S:\Windows Kits\10).
+  Building 6 actions with 16 processes...
+    [1/6] RempleTun.init.gen.cpp
+    [2/6] PuzzleLibrary.cpp
+    [3/6] PuzzleLibrary.gen.cpp
+    [4/6] UE4Editor-RempleTun.lib
+       Creating library S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun.lib and object S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun.exp
+    [5/6] UE4Editor-RempleTun.dll
+       Creating library S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun.suppressed.lib and object S:\Projects\12. Unreal Projects\RempleTun\RempleTun\Intermediate\Build\Win64\UE4Editor\Development\RempleTun\UE4Editor-RempleTun.suppressed.exp
+    [6/6] RempleTunEditor.target
+  Total time in Parallel executor: 2.13 seconds
+  Total execution time: 23.65 seconds
